@@ -1,4 +1,4 @@
-# HearthstoneTextGenerator#
+# HearthstoneTextGenerator
 
 This purpose of this project was just for me to have some fun and learn how to use Recurrent Neural Networks effectively with Keras and Tensorflow.
 
